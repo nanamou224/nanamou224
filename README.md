@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**nanamou224/nanamou224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bio
+:raising_hand_man: N'Famoussa Kounon NANAMOU  
+:mag_right: Defensive & Offensive Security Researcher  
+:mag_right: Follow me on :  <!-- display the social media buttons in your README -->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.1]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.facebook.com/nanamou224
+[2]: http://www.twitter.com/_nanamou224
+[3]: http://www.github.com/nanamou224
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
