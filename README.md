@@ -1,7 +1,7 @@
 
 # Bio
 :raising_hand_man: N'Famoussa Kounon NANAMOU  
-:mag_right: PhD Student (Defensive & Offensive Security Researcher)  
+:mag_right: PhD Candidate (Defensive & Offensive Security Researcher)  
 📌 Follow me on  <!-- display the social media buttons in your README -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
